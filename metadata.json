@@ -1,0 +1,6 @@
+{
+  "name": "CampusStep",
+  "description": "대학생을 위한 목표 관리 및 커리어 준비 플랫폼. 자격증, 대외활동, 공모전 정보를 탐색하고 AI 기반 To-do 리스트로 목표를 관리하세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
